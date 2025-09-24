@@ -1,11 +1,19 @@
 /*Attributes List*/
 
+1.train_master.csv
+Train_ID	       - T01 
+Trainset_Name	   - Kochi_Set_02
+Manufacture_Year - 2014
+Capacity	       - 1200
+Branding_Flag	   - No/Yes
+Depot            - Muttom/Aluva
+
 2. fitness.csv
 Train_ID                  - T01 -> T25
-Rolling_Stock_Cert_Expiry - 01/08/2025
-Signalling_Cert_Expiry    - 06/07/2025
-Telecom_Cert_Expiry       - 01/08/2025
-Status                    - Valid / Expiring Soon / Expired
+Rolling_Stock_Cert_Expiry - 01/08/2025 -> 17/08/2028
+Signalling_Cert_Expiry    - 06/07/2025 -> 19/03/2027
+Telecom_Cert_Expiry       - 01/08/2025 -> 01/05/2027
+Status                     - Valid / Expiring Soon / Expired
 
 
 3. Job Card / Maintenance.csv
@@ -34,11 +42,19 @@ Motor_Runtime_Hours		  --3700
 Door_Cycle_Count		   --60000
 Last_Updated_Timestamp    --2024-10-19T16:38:20
 
+5. branding.csv
+Train_ID               - T01
+Brand_Name             - Pepsi/Nike
+Contract_Start         - 2025-06-01
+Contract_End           - 2026-01-20
+Min_Hours_Per_Day      - 6
+Preferred_Route        - Aluva–Pettah
+Hours_Served_Yesterday - 5
 
 6. cleaning.csv
 Date              - 24/09/2025
 Train_ID          - T01 -> T25
 Cleaning_Type     - Routine / Deep-Clean
-Slot_Assigned     - 1
+Slot_Assigned     - 1 -> 6
 Status            - Scheduled / Completed
-Manpower_Assigned - 4
+Manpower_Assigned - 4 -> 12
