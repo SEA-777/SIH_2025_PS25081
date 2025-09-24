@@ -1,0 +1,44 @@
+Train_ID,JobCard_ID,Job_Type,Criticality,Status,Due_Date,Bay_Required
+T01,JC_1001,Brake pad replacement,Critical,Open,2025-09-26,Yes
+T01,JC_1002,AC fault,Non-Critical,Closed,2025-09-23,No
+T02,JC_1003,Engine failure,Critical,Open,2025-09-25,Yes
+T02,JC_1004,Door malfunction,Non-Critical,Open,2025-09-28,No
+T03,JC_1005,Lighting issue,Non-Critical,Closed,2025-09-22,No
+T04,JC_1006,Wheelset replacement,Critical,Open,2025-09-29,Yes
+T05,JC_1007,HVAC fault,Non-Critical,Open,2025-09-30,No
+T05,JC_1008,Fire safety system fault,Critical,Open,2025-09-25,Yes
+T06,JC_1009,Control system software issue,Critical,Closed,2025-09-21,No
+T07,JC_1010,Pantograph issue,Critical,Open,2025-09-26,Yes
+T07,JC_1011,Toilet system fault,Non-Critical,Closed,2025-09-23,No
+T08,JC_1012,Brake pad replacement,Critical,Open,2025-09-27,Yes
+T08,JC_1013,Door malfunction,Non-Critical,Open,2025-09-29,No
+T09,JC_1014,Engine failure,Critical,Open,2025-09-24,Yes
+T10,JC_1015,Fire safety system fault,Critical,Closed,2025-09-22,Yes
+T11,JC_1016,AC fault,Non-Critical,Open,2025-09-27,No
+T11,JC_1017,Lighting issue,Non-Critical,Closed,2025-09-21,No
+T12,JC_1018,Wheelset replacement,Critical,Open,2025-09-30,Yes
+T13,JC_1019,Control system software issue,Critical,Open,2025-09-25,No
+T13,JC_1020,HVAC fault,Non-Critical,Closed,2025-09-20,No
+T14,JC_1021,Pantograph issue,Critical,Open,2025-09-28,Yes
+T14,JC_1022,Door malfunction,Non-Critical,Open,2025-09-29,No
+T15,JC_1023,Engine failure,Critical,Closed,2025-09-22,Yes
+T16,JC_1024,Brake pad replacement,Critical,Open,2025-09-25,Yes
+T17,JC_1025,Toilet system fault,Non-Critical,Closed,2025-09-23,No
+T18,JC_1026,Fire safety system fault,Critical,Open,2025-09-27,Yes
+T19,JC_1027,AC fault,Non-Critical,Open,2025-09-26,No
+T20,JC_1028,Wheelset replacement,Critical,Closed,2025-09-21,Yes
+T21,JC_1029,Lighting issue,Non-Critical,Closed,2025-09-22,No
+T21,JC_1030,Brake pad replacement,Critical,Open,2025-09-25,Yes
+T22,JC_1031,Control system software issue,Critical,Open,2025-09-28,No
+T22,JC_1032,Pantograph issue,Critical,Closed,2025-09-23,Yes
+T22,JC_1033,Door malfunction,Non-Critical,Open,2025-09-29,No
+T23,JC_1034,Engine failure,Critical,Open,2025-09-26,Yes
+T23,JC_1035,HVAC fault,Non-Critical,Closed,2025-09-21,No
+T24,JC_1036,Fire safety system fault,Critical,Open,2025-09-25,Yes
+T24,JC_1037,Toilet system fault,Non-Critical,Closed,2025-09-22,No
+T24,JC_1038,Lighting issue,Non-Critical,Open,2025-09-27,No
+T25,JC_1039,Pantograph issue,Critical,Open,2025-09-26,Yes
+T25,JC_1040,Brake pad replacement,Critical,Closed,2025-09-22,Yes
+T25,JC_1041,Wheelset replacement,Critical,Open,2025-09-29,Yes
+T25,JC_1042,AC fault,Non-Critical,Open,2025-09-30,No
+T25,JC_1043,Door malfunction,Non-Critical,Closed,2025-09-21,No
