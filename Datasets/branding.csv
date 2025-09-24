@@ -1,26 +1,14 @@
 Train_ID,Brand_Name,Contract_Start,Contract_End,Min_Hours_Per_Day,Preferred_Route,Hours_Served_Yesterday
 T01,Coca-Cola,2025-06-01,2025-09-30,6,Aluva–Pettah,5
-T02,Pepsi,2025-07-01,2025-10-31,7,Edapally–M.G. Road,6
 T03,Pepsi,2025-09-01,2025-12-31,8,Aluva–Pettah,6
-T04,Nike,2025-07-15,2025-10-15,5,Edapally–Ernakulam South,4
 T05,Nike,2025-07-10,2025-10-10,5,Edapally–M.G. Road,4
-T06,Amazon,2025-08-01,2025-11-30,7,Aluva–Tripunithura,8
 T07,Flipkart,2025-06-05,2025-09-05,6,Vyttila–Pettah,5
-T08,Flipkart,2025-06-15,2025-09-15,6,Vyttila–Pettah,6
 T09,Red Bull,2025-05-20,2025-08-20,7,Edapally–Thrippunithura,5
-T10,Red Bull,2025-07-01,2025-10-31,7,Edapally–Thrippunithura,5
 T11,Pepsi,2025-08-10,2025-11-10,8,Aluva–M.G. Road,7
-T12,Pepsi,2025-09-05,2026-01-05,8,Aluva–M.G. Road,7
 T13,Adidas,2025-07-20,2025-10-20,5,Kaloor–Ernakulam South,4
-T14,Adidas,2025-09-10,2026-01-10,5,Palarivattom–Ernakulam South,4
 T15,Coca-Cola,2025-06-25,2025-09-25,6,Aluva–Pettah,5
-T16,Coca-Cola,2025-06-20,2025-09-20,6,Aluva–Pettah,5
 T17,Flipkart,2025-08-05,2025-11-05,6,Vyttila–Pettah,6
-T18,Flipkart,2025-06-01,2025-09-30,8,Vyttila–Pettah,7
 T19,Nike,2025-07-15,2025-10-15,5,Edapally–Ernakulam South,5
-T20,Pepsi,2025-05-15,2025-08-15,6,Aluva–M.G. Road,6
 T21,Amazon,2025-06-30,2025-09-30,7,Aluva–Tripunithura,6
-T22,Red Bull,2025-07-25,2025-10-25,7,Edapally–Thrippunithura,5
 T23,Pepsi,2025-08-10,2025-11-10,8,Aluva–M.G. Road,7
-T24,Nike,2025-07-01,2025-10-31,7,Edapally–Thrippunithura,6
 T25,Adidas,2025-06-15,2025-09-15,5,Kaloor–Ernakulam South,5
