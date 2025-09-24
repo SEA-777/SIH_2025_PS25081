@@ -58,3 +58,12 @@ Cleaning_Type     - Routine / Deep-Clean
 Slot_Assigned     - 1
 Status            - Scheduled / Completed
 Manpower_Assigned - 4
+
+
+7. Stabling.csv
+Depot
+Track_ID
+Train_ID
+Position_Order
+Preferred_Turnout_Time
+
