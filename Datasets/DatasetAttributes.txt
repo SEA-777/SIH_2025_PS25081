@@ -22,7 +22,7 @@ JobCard_ID     - JC_1001 , JC_1002
 Job_Type       - "Break Pad Replacement" "AC Fault" "Engine Failure"
 Criticality    - Critical / Non-Critical 
 Status         - Open / Closed
-Due_Date       - 26-09-2025
+Due_Date       - 26/09/2025
 Bay_Required   - Yes / No
 
 
