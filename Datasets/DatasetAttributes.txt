@@ -2,10 +2,10 @@
 
 2. fitness.csv
 Train_ID                  - T01 -> T25
-Rolling_Stock_Cert_Expiry - 01/08/2025 -> 17/08/2028
-Signalling_Cert_Expiry    - 06/07/2025 -> 19/03/2027
-Telecom_Cert_Expiry       - 01/08/2025 -> 01/05/2027
-Status                     - Valid / Expiring Soon / Expired
+Rolling_Stock_Cert_Expiry - 01/08/2025
+Signalling_Cert_Expiry    - 06/07/2025
+Telecom_Cert_Expiry       - 01/08/2025
+Status                    - Valid / Expiring Soon / Expired
 
 
 3. Job Card / Maintenance.csv
@@ -39,6 +39,6 @@ Last_Updated_Timestamp    --2024-10-19T16:38:20
 Date              - 24/09/2025
 Train_ID          - T01 -> T25
 Cleaning_Type     - Routine / Deep-Clean
-Slot_Assigned     - 1 -> 6
+Slot_Assigned     - 1
 Status            - Scheduled / Completed
-Manpower_Assigned - 4 -> 12
+Manpower_Assigned - 4
