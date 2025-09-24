@@ -1,1 +1,10 @@
 /*Attributes List*/
+
+3. Job Card / Maintenance.csv
+Train_ID       - T01 -> T25
+JobCard_ID     - JC_1001 , JC_1002
+Job_Type       - "Break Pad Replacement" "AC Fault" "Engine Failure"
+Criticality    - Critical / Non-Critical 
+Status         - Open / Closed
+Due_Date       - 26-09-2025
+Bay_Required   - Yes / No
