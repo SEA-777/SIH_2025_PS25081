@@ -1,8 +1,6 @@
 Train_ID,JobCard_ID,Job_Type,Criticality,Status,Due_Date,Bay_Required
 T01,JC_1001,Brake pad replacement,Critical,Open,26/09/2025,Yes
 T01,JC_1002,AC fault,Non-Critical,Closed,23/09/2025,No
-T02,JC_1003,Engine failure,Critical,Open,2025-09-25,Yes
-T02,JC_1004,Door malfunction,Non-Critical,Open,2025-09-28,No
 T03,JC_1005,Lighting issue,Non-Critical,Closed,22/09/2025,No
 T04,JC_1006,Wheelset replacement,Critical,Open,29/09/2025,Yes
 T05,JC_1007,HVAC fault,Non-Critical,Open,30/09/2025,No
@@ -29,9 +27,6 @@ T19,JC_1027,AC fault,Non-Critical,Open,26/09/2025,No
 T20,JC_1028,Wheelset replacement,Critical,Closed,21/09/2025,Yes
 T21,JC_1029,Lighting issue,Non-Critical,Closed,22/09/2025,No
 T21,JC_1030,Brake pad replacement,Critical,Open,25/09/2025,Yes
-T22,JC_1031,Control system software issue,Critical,Open,28/09/2025,No
-T22,JC_1032,Pantograph issue,Critical,Closed,23/09/2025,Yes
-T22,JC_1033,Door malfunction,Non-Critical,Open,29/09/2025,No
 T23,JC_1034,Engine failure,Critical,Open,26/09/2025,Yes
 T23,JC_1035,HVAC fault,Non-Critical,Closed,21/09/2025,No
 T24,JC_1036,Fire safety system fault,Critical,Open,25/09/2025,Yes
