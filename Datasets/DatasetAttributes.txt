@@ -45,7 +45,7 @@ Last_Updated_Timestamp    --2024-10-19T16:38:20
 5. branding.csv
 Train_ID               - T01
 Brand_Name             - Pepsi/Nike
-Contract_Start         - 2025-06-01
+Contract_Start         - 2025-06-16
 Contract_End           - 2026-01-20
 Min_Hours_Per_Day      - 6
 Preferred_Route        - Aluva–Pettah
