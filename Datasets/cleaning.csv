@@ -1,0 +1,13 @@
+Date,Train_ID,Cleaning_Type,Slot_Assigned,Status,Manpower_Assigned
+24/09/2025,T02,Routine,1,Scheduled,6
+24/09/2025,T04,Deep-Clean,3,Completed,9
+24/09/2025,T05,Routine,6,Scheduled,5
+24/09/2025,T07,Deep-Clean,2,Completed,11
+24/09/2025,T09,Routine,4,Scheduled,4
+24/09/2025,T11,Deep-Clean,5,Completed,10
+24/09/2025,T13,Routine,2,Scheduled,6
+24/09/2025,T15,Deep-Clean,6,Completed,12
+24/09/2025,T18,Routine,3,Scheduled,5
+24/09/2025,T19,Deep-Clean,4,Completed,9
+24/09/2025,T21,Routine,1,Scheduled,4
+24/09/2025,T23,Deep-Clean,2,Completed,10
