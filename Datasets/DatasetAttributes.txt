@@ -8,3 +8,20 @@ Criticality    - Critical / Non-Critical
 Status         - Open / Closed
 Due_Date       - 26-09-2025
 Bay_Required   - Yes / No
+
+
+4. milage list /milage.csv
+Train_ID	   -- T01-T30
+Total_Mileage_km	    --324756
+Mileage_Since_Last_Maintenance		  --1632
+Avg_Daily_Mileage	      --280
+Next_Maintenance_Due_km    --10000
+Remaining_Buffer_km		    --3000
+Component_Wear_Status		  --good/fair
+Bogie_Mileage_km	    --4629
+Brake_Pad_Mileage_km		  --2349
+HVAC_Runtime_Hours		  --7876
+Wheel_Wear_mm		    --3.2
+Motor_Runtime_Hours		  --3700
+Door_Cycle_Count		   --60000
+Last_Updated_Timestamp    --2024-10-19T16:38:20
