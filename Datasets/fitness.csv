@@ -1,6 +1,6 @@
 Train_ID,Rolling_Stock_Cert_Expiry,Signalling_Cert_Expiry,Telecom_Cert_Expiry,Status
 T01,14/02/2028,21/05/2026,01/11/2026,Valid
-T02,13/01/2028,01/08/2025,15/09/2025,Expired
+T02,13/01/2028,01/08/2026,15/09/2026,Valid
 T03,05/02/2027,02/03/2027,28/09/2025,Expiring Soon
 T04,12/12/2027,20/05/2026,05/10/2025,Expiring Soon
 T05,15/03/2028,21/07/2026,15/10/2025,Expiring Soon
