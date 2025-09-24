@@ -61,9 +61,9 @@ Manpower_Assigned - 4
 
 
 7. Stabling.csv
-Depot
-Track_ID
-Train_ID
-Position_Order
-Preferred_Turnout_Time
+Depot      --Aluva
+Track_ID    --Bay_01
+Train_ID    --T04
+Position_Order    --1
+Preferred_Turnout_Time    --06:15:00
 
